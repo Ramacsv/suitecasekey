@@ -366,9 +366,9 @@ footer span.octocat {
 body {
  // background: #ece4d8; // original cream
   
-  background: #dbdeff;
+  background: #d0c4ff;
   font: normal normal 15px/1.5 Georgia, Palatino,” Palatino Linotype”, Times, “Times New Roman”, serif;
-  color: #544943;
+  color: #ffffff;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -442,7 +442,8 @@ hr {
 }
 
 code {
-  background: #fff6e9;
+//  background: #fff6e9;
+  background:  #d0c4ff;
   font: normal normal .8em/1.7 "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
   padding: 0 5px 1px;
 }
@@ -450,7 +451,8 @@ code {
 pre {
   margin: 10px 0 20px;
   padding: .7em;
-  background: #fff6e9;
+//  background: #fff6e9;
+  background:  #dbdeff;
   border-bottom: 2px solid #bdb6ad;
   font: normal normal .9em/1.7 "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
   overflow: auto;
