@@ -1,17 +1,21 @@
---------
-
------------
-
-# key story
+# Key Story
 
 
-The floor hole mystery
+## The floor hole mystery
+
+
 _In New York Suitecase was staying in a hotel._
+
 _He was bored and nothing do_
+
 _Thought of drilling a hole in the ground to if there is anything he can find _
+
 _He drilled a very deep hole in the floor._
+
 _ Then he got down into the hole and landed on a brick surface_
+
 _There was an unusual kind of brick._
+
 _It looked interesting so brought it to his room._
 
 _He found a note on it, it said this a box and is locked, there is no key hole but there is a key._
