@@ -84,7 +84,7 @@ _There was a pen, pencil and a board_
 
 _A key appeared on it and Suitecase picked it up._
 
-_मन नाम राम सि येस् वि ।     अहं सूट्केसस् सख अस्मि ।_
+_मम नाम राम सि येस् वि ।     अहं सूट्केसस् सख अस्मि ।_
 
 _When he took the key diamond shaped box closed_
 
