@@ -1,8 +1,15 @@
 # Key Story
 
+![alt SuiteCase](assets/images/suitecase.png "I am SuiteCase")
+
+<b>ramacsv,My Friend SuiteCase </b>
+<hr style="border-top:5px solid purple">
+
+## Welcome to my page
+
+_Suitecase lives in the cloud island in the sky._
 
 ## The Floor Hole Mystery
-
 
 _In New York Suitecase was staying in a hotel._
 
@@ -16,6 +23,11 @@ _Then he got down into the hole and landed on a brick surface_
 
 _There was an unusual kind of brick._
 
+![alt Bridge](assets/images/brick-1.png "Unusual Brick")
+
+<b>Drawing by ramacsv, SuiteCase Friend</b>
+<hr style="border-top:5px solid Green">
+
 _It looked interesting so brought it to his room._
 
 _He found a note on it, it said this a box and is locked, there is no key hole but there is a key._
@@ -23,6 +35,11 @@ _He found a note on it, it said this a box and is locked, there is no key hole b
 _He went again in the hole and see what else he can find._
 
 _He saw a diamond shaped(   rhombus) box._
+
+![alt Bridge](assets/images/diamondbox-2.png "Diamond/Rhombus shape Box")
+
+<b>Drawing by ramacsv, SuiteCase Friend</b>
+<hr style="border-top:5px solid Red">
 
 _That box started floating and went into his room_
 
