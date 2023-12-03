@@ -34,9 +34,9 @@ _He found a note on it, it said this a box and is locked, there is no key hole b
 
 _He went again in the hole and see what else he can find._
 
-_He saw a diamond shaped(   rhombus) box._
+_He saw a diamond shaped( rhombus) box._
 
-![alt Bridge](assets/images/diamondbox-3.png "Diamond/Rhombus shape Box")
+![alt Box](assets/images/diamondbox-3.png "Diamond/Rhombus shape Box")
 
 <b>Drawing by ramacsv, SuiteCase Friend</b>
 <hr style="border-top:5px solid Red">
@@ -48,6 +48,11 @@ _He followed the box._
 _When he touched, it opened._
 
 _Inside there was a key and a light on it._
+
+![alt Key](assets/images/keydiamond.png "Key")
+
+<b>Drawing by ramacsv, SuiteCase Friend</b>
+<hr style="border-top:5px solid Blue">
 
 _He did not know what that light is for._
 
