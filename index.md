@@ -82,6 +82,13 @@ _Lo behold!! It opened_
 
 _There was a pen, pencil and a board_
 
+![alt Notepad](assets/images/notepad.png "NotePad")
+![alt Notepad](assets/images/elephant.png "Elephant")
+![alt Notepad](assets/images/frame.png "Elephant")
+
+<b>Drawing by ramacsv, SuiteCase Friend</b>
+<hr style="border-top:5px solid Blue">
+
 _A key appeared on it and Suitecase picked it up._
 
 _मम नाम राम सि येस् वि ।     अहं सूट्केसस् सख अस्मि ।_
