@@ -84,10 +84,10 @@ _There was a pen, pencil and a board_
 
 ![alt Notepad](assets/images/notepad.png "NotePad")
 ![alt Notepad](assets/images/elephant.png "Elephant")
-![alt Notepad](assets/images/frame.png "Elephant")
+![alt Notepad](assets/images/frame.png "Frame")
 
 <b>Drawing by ramacsv, SuiteCase Friend</b>
-<hr style="border-top:5px solid Blue">
+<hr style="border-top:5px solid Yellow">
 
 _A key appeared on it and Suitecase picked it up._
 
@@ -107,7 +107,15 @@ _With a pen he drew a picture of a train because he thought it would aniamte and
 
 _But it turned into a giant train on a mountain_
 
+![alt Mountaintrain](assets/images/mountaintrain.png "Mountaintrain")
+
+<b>Drawing by ramacsv, SuiteCase Friend</b>
+<hr style="border-top:5px solid Green">
+
 _Every time he wrote a picture it turned out to be on a mountain_
 
 ## The End
 
+*I will write later my next story.*
+
+## Thank you for visiting my page.
