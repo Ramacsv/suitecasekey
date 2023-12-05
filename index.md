@@ -36,7 +36,7 @@ _He went again in the hole and see what else he can find._
 
 _He saw a diamond shaped( rhombus) box._
 
-![alt Box](assets/images/diamondbox-3.png "Diamond/Rhombus shape Box")
+![alt Box](assets/images/diamondbox2.png "Diamond/Rhombus shape Box")
 
 <b>Drawing by ramacsv, SuiteCase Friend</b>
 <hr style="border-top:5px solid Red">
